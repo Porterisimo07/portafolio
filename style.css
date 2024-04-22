@@ -1,0 +1,9 @@
+.carousel-inner .item a img{
+    display: inline !important;
+}
+#micarrucel{
+    margin: 35px auto;
+}
+#games{
+    text-align: center;
+}
